@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Rómpela</title>
+    <link>http://rompela.mx/about/index.xml</link>
+    <description>Recent content in Abouts on Rómpela</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-MX</language>
+    <atom:link href="http://rompela.mx/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sitio en construcción</title>
+      <link>http://rompela.mx/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rompela.mx/about/about/</guid>
+      <description>&lt;p&gt;Todo tiene un principio. Nuestro sitio web también :) Aún así, pronto estará
+disponible.&lt;/p&gt;
+
+&lt;p&gt;Mientras puedes contactarnos por canales que ya conoces o también puedes
+visitarnos:&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
